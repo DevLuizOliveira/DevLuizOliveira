@@ -6,10 +6,10 @@ Dev em constante evolução, unindo a base prática do ensino técnico com o uni
 
 ### 🚀 Sobre Mim
 
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas
-- 📚 **Atualidade:** Graduando em **Ciência da Computação**
-- 💼 **Objetivo:** Construir soluções eficientes, limpas e escaláveis enquanto aprofundo meus conhecimentos em algoritmos e arquitetura de software.
-- 🌱 **Foco atual:** Expandindo horizontes na faculdade e aplicando conceitos acadêmicos em projetos reais.
+- 🎓 **Formação:**
+- Técnico em **Desenvolvimento de Sistemas** FEV/2022 - DEZ/2024
+- Graduando em **Ciência da Computação**     MAR/2026 - ATUALMENTE
+
 
 ---
 
