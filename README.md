@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Oliveira! 👋
+# Olá, eu sou o Luiz Oliveira! 
 
 Dev em constante evolução, unindo a base prática do ensino técnico com o universo teórico e científico da faculdade.
 
