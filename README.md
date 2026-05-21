@@ -33,8 +33,13 @@ Aqui estão as principais linguagens e ferramentas com as quais trabalho e estud
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevLuizOliveira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luiz" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuizOliveira&layout=compact&langs_count=7&theme=gotham" alt="Linguagens mais usadas" height="180em" />
+  <!-- Gráfico de commits consecutivos -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLuizOliveira&theme=tokyonight" alt="GitHub Streak" height="180em" />
+</p>
+
+<p align="left">
+  <!-- Contador de Visitas -->
+  <img src="https://komarev.com/ghvc/?username=DevLuizOliveira&label=Visitas%20ao%20Perfil&color=00758f&style=flat-square" alt="Contador de Visitas" />
 </p>
 
 ---
