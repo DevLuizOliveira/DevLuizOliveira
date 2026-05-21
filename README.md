@@ -46,7 +46,7 @@ Aqui estão as principais linguagens e ferramentas com as quais trabalho e estud
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+<!---- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)--->
 - **E-mail:** [luizgsoliveira30@gmail.com](mailto:luizgsoliveira30@gmail.com)
 
 <!--
