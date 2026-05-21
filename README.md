@@ -38,8 +38,8 @@ Aqui estão as principais linguagens e ferramentas com as quais trabalho e estud
 </p>
 
 <p align="left">
-  <!-- Contador de Visitas -->
-  <img src="https://komarev.com/ghvc/?username=DevLuizOliveira&label=Visitas%20ao%20Perfil&color=00758f&style=flat-square" alt="Contador de Visitas" />
+  <!-- Novo Contador de Visitas (Hits) -->
+  <img src="https://hit.yhype.me/github/profile?user=DevLuizOliveira" alt="Contador de Visitas" />
 </p>
 
 ---
